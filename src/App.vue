@@ -1,7 +1,7 @@
 <template>
   <div>
-    <NavbarComponent style="background-color:hotpink;"></NavbarComponent> <br>
-   <HeaderComponent></HeaderComponent> <br>
+  <NavbarComponent style="background-color:hotpink;"></NavbarComponent> <br>
+   <HeaderComponent></HeaderComponent><br>
    <CardComponent></CardComponent> <br>
    <CardComponent2></CardComponent2> <br>
    <CardComponent3></CardComponent3> <br>
